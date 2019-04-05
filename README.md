@@ -7,7 +7,8 @@
  - HTML отчет о прохождении тестов - [Test Results - Unittests_in_Tests_py.html](https://github.com/arkuz/vse_instrum_test/blob/master/others/Test%20Results%20-%20Unittests_in_Tests_py.html)
 
 ### Требования
-У Вас должен быть установлен virtualenv
+1. В системе должен быть установлен Python версии 3.
+2. У Вас должен быть установлен virtualenv.
 ```bash
 pip install virtualenv
 ```
